@@ -1,2 +1,2 @@
 # Karnataka
-karnataka all district information
+# karnataka all district information
